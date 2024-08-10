@@ -4,4 +4,4 @@ In this project I will be creating a website for various recipes, which I will a
 
 Expectations: I expect the process to be easy, but also a bit tedious. Nevertheless I will give it my best. 8.8.2024
 
-Reality: 
+Reality: I was right. The process was very easy, but it was also fun seeing the project come together. On tip for my next project: Make a template file should you have to create multiple simillar files. This eases the process. 10.8.2024
