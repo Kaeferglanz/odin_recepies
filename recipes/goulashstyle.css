@@ -1,8 +1,25 @@
+body {
+    background-color: #2a2c2e;
+    color: #ffffff;
+}
+
+#image {
+    margin-left: auto;
+    margin-right: auto;
+    display:block 
+ 
+ }
+ 
 h1 {
-    color: #B25621;
-    font-family: "Drumnik Clean", "New York Times", sans-serif;
+    font-family: "Drumnik Clean", "Times New Roman", sans-serif;
     text-align: center;
     font-weight: 1000;
+    background: linear-gradient(to bottom,
+    #d40e00 ,
+    #ffffff ,
+    #2b7500);
+    background-clip: text; color: transparent;
+    font-size: 50px
 }
 
 .head {
@@ -14,3 +31,6 @@ h1 {
 .list {
         font-family: Didot, serif;
     }
+a {
+    color: rgb(255, 251, 251); 
+}

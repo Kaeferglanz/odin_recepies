@@ -1,0 +1,36 @@
+body {
+    background: #2a2c2e;
+    color: white
+}
+#image {
+    margin-left: auto;
+    margin-right: auto;
+    display:block 
+ 
+ }
+ 
+
+h1 {
+    text-align: center;
+    font-family: "Playwrite Cuba", Arial, Helvetica, sans-serif;
+    background: linear-gradient(to left, 
+                                  #d16c00, 
+                                  #ffb829,
+                                  #d16c00);
+    background-clip: text; color: transparent;
+    font-size: 50px;
+    
+}
+
+.head {
+    text-align: center;
+    font-weight: 1000;
+    font-family: "Apple Chancery", cursive; 
+}
+.list {
+    font-family: Didot, serif; 
+    
+}
+
+
+
