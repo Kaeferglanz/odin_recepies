@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Germania+One&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Germania+One&family=Jacquarda+Bastarda+9&display=swap');
 
 body {
     color: white;
@@ -12,13 +11,13 @@ body {
 }
 h1 {
     background: linear-gradient(to bottom,
-                                #006eff,
-                                #ffffff,
-                                #006eff);
+                                #ffa600d0,
+                                #ffd900,
+                                #ffa600d0);
     background-clip: text; color: transparent;
     font-size: 50px;
     font-weight: 1000;
-    font-family: "Germania One", "Times New Roman", sans-serif
+    font-family: "Jacquarda Bastarda 9", "Times New Roman", sans-serif
 }
 
 #head {
@@ -31,5 +30,9 @@ a{
 }
 
 .list {
+    font-family: Didot, serif
+}
+
+#descirption {
     font-family: Didot, serif
 }
