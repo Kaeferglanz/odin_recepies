@@ -1,11 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Germania+One&display=swap');
+
+
 body {
     color: white;
-    background: color #2a2c2e)
+    background:#2a2c2e;
 }
 #image {
     margin-left: auto;
     margin-right: auto;
     display:block 
- 
- }
- 
+}
+h1 {
+    background: linear-gradient(to bottom,
+                                #006eff,
+                                #ffffff,
+                                #006eff);
+    background-clip: text; color: transparent;
+    font-size: 50px;
+    font-weight: 1000;
+    font-family: "Germania One", "Times New Roman", sans-serif
+}
+
+#head {
+    text-align: center;
+    font-weight: 1000;
+    font-family: "Apple Chancery", cursive; 
+}
+a{
+    color: white
+}
+
+.list {
+    font-family:Didot, serif
+}
