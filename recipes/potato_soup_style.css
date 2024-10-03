@@ -18,7 +18,8 @@ h1 {
     background-clip: text; color: transparent;
     font-size: 50px;
     font-weight: 1000;
-    font-family: "Germania One", "Times New Roman", sans-serif
+    font-family: "Germania One", "Times New Roman", sans-serif;
+    text-align: center
 }
 
 #head {

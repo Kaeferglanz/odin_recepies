@@ -11,13 +11,13 @@ body {
 }
 h1 {
     background: linear-gradient(to bottom,
-                                #ffa600d0,
-                                #ffd900,
-                                #ffa600d0);
+                               #008000b9,
+                               #ffffff);
     background-clip: text; color: transparent;
     font-size: 50px;
     font-weight: 1000;
-    font-family: "Jacquarda Bastarda 9", "Times New Roman", sans-serif
+    font-family: "Jacquarda Bastarda 9", "Times New Roman", sans-serif;
+    text-align: center
 }
 
 #head {
